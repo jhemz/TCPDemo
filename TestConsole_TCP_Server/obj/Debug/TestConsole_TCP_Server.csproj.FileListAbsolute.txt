@@ -1,0 +1,5 @@
+C:\Users\j.marshall\source\repos\TestWPF_TCP_Client\TestConsole_TCP_Server\bin\Debug\TestConsole_TCP_Server.exe.config
+C:\Users\j.marshall\source\repos\TestWPF_TCP_Client\TestConsole_TCP_Server\bin\Debug\TestConsole_TCP_Server.exe
+C:\Users\j.marshall\source\repos\TestWPF_TCP_Client\TestConsole_TCP_Server\bin\Debug\TestConsole_TCP_Server.pdb
+C:\Users\j.marshall\source\repos\TestWPF_TCP_Client\TestConsole_TCP_Server\obj\Debug\TestConsole_TCP_Server.exe
+C:\Users\j.marshall\source\repos\TestWPF_TCP_Client\TestConsole_TCP_Server\obj\Debug\TestConsole_TCP_Server.pdb
